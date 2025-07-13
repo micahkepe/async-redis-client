@@ -1,3 +1,4 @@
+//! Hello world server.
 use mini_redis::{Result, client};
 
 #[tokio::main]
